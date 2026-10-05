@@ -1,0 +1,21 @@
+From: "GitHub Notifications" <notifications@github.com>
+To: developer@my-org.io
+Subject: [GitHub] Dependabot alert: axios high severity vulnerability detected
+Date: Mon, 05 Oct 2026 13:10:00 +0000
+Message-ID: <github.advisory.20261005@github.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hi developer,
+
+Dependabot detected a known high-severity vulnerability in the npm dependency "axios" within your repository my-org/web-frontend:
+
+Advisory: GHSA-8hc4-vh64-cxmj (Server-Side Request Forgery)
+Affected versions: < 1.7.4
+Patched version: 1.7.4
+
+You can review the dependency graph and merge the automated pull request at:
+https://github.com/my-org/web-frontend/security/dependabot/14
+
+This is an automated notification from GitHub Security Services.
+Manage your notification preferences: https://github.com/settings/notifications

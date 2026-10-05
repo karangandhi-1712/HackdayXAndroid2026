@@ -1,0 +1,23 @@
+From: "PayPal Security Alert" <service-update@paypa1-security-check.xyz>
+To: target.user@corporate-network.com
+Subject: URGENT: Your PayPal Account has been Restricted [Action Required in 24 Hours]
+Date: Mon, 05 Oct 2026 08:14:22 +0000
+Message-ID: <20261005081422.9912.phish@paypa1-security-check.xyz>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We detected multiple unauthorized attempts to sign in to your PayPal account from an unrecognized IP address in Moscow, Russia (IP: 185.220.101.5).
+
+For your safety, access to your funds, card linking, and outbound transactions has been temporarily restricted.
+
+To restore full privileges, you must immediately confirm your billing information and verify two-factor credentials using our secure gateway:
+
+https://paypa1-security-check.xyz/auth/restore-identity?token=9f82bc7190d
+
+If identity verification is not completed within 24 hours, your account will be permanently terminated and remaining balance frozen.
+
+Thank you for choosing PayPal.
+PayPal Security & Risk Mitigation Team
+Case Reference: PP-ID-88492041

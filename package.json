@@ -1,0 +1,10 @@
+{
+  "name": "hackday-x-android-2026",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scam detection web application in Vue 3 connecting to Ninja REST API",
+  "scripts": {
+    "dev": "npm --prefix frontend-vue run dev",
+    "build": "npm --prefix frontend-vue run build"
+  }
+}
